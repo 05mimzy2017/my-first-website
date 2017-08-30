@@ -1,0 +1,30 @@
+body {
+    background-image: url("red flower.jpg");
+    background-color: #f3edfc;
+}
+
+h1 {
+    color: #ffffff;
+    font-family:'Lobster', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 { color:  #ffffff;
+     font-family: 'Lobster', cursive;
+     font-size: 30px;
+     text-align: left; 
+}
+
+p { 
+    color: #ffffff; 
+    font-family: 'Tangerine', cursive;
+    font-size: 30px;
+} 
+
+img {
+     border-radius: 50%;
+     max-width: 100%;
+
+
+
